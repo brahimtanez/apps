@@ -11,10 +11,14 @@
       "assistant",
       "writing"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "AI assistant for writing, learning, brainstorming and everyday questions.",
+    "description": "ChatGPT is a app in the productivity category. AI assistant for writing, learning, brainstorming and everyday questions. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fopenai.com",
+    "screenshots": [
+      "https://picsum.photos/seed/chatgpt-screen-1/720/1280",
+      "https://picsum.photos/seed/chatgpt-screen-2/720/1280",
+      "https://picsum.photos/seed/chatgpt-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -24,7 +28,9 @@
     "editor_pick": true,
     "trending_rank": 1,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "AI assistant for writing, learning, brainstorming and everyday questions",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "whatsapp-messenger",
@@ -38,10 +44,14 @@
       "calls",
       "chat"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Private messaging, voice calls, video calls and easy media sharing.",
+    "description": "WhatsApp Messenger is a app in the communication category. Private messaging, voice calls, video calls and easy media sharing. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwhatsapp.com",
+    "screenshots": [
+      "https://picsum.photos/seed/whatsapp-messenger-screen-1/720/1280",
+      "https://picsum.photos/seed/whatsapp-messenger-screen-2/720/1280",
+      "https://picsum.photos/seed/whatsapp-messenger-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -51,7 +61,9 @@
     "editor_pick": true,
     "trending_rank": 2,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Private messaging, voice calls, video calls and easy media sharing",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "instagram",
@@ -65,10 +77,14 @@
       "reels",
       "social"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Share photos, stories and reels while following creators and friends.",
+    "description": "Instagram is a app in the social category. Share photos, stories and reels while following creators and friends. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Finstagram.com",
+    "screenshots": [
+      "https://picsum.photos/seed/instagram-screen-1/720/1280",
+      "https://picsum.photos/seed/instagram-screen-2/720/1280",
+      "https://picsum.photos/seed/instagram-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -78,7 +94,9 @@
     "editor_pick": false,
     "trending_rank": 3,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Share photos, stories and reels while following creators and friends",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "tiktok",
@@ -92,10 +110,14 @@
       "creator",
       "social"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Discover and create short-form videos across entertainment, trends and learning.",
+    "description": "TikTok is a app in the social category. Discover and create short-form videos across entertainment, trends and learning. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ftiktok.com",
+    "screenshots": [
+      "https://picsum.photos/seed/tiktok-screen-1/720/1280",
+      "https://picsum.photos/seed/tiktok-screen-2/720/1280",
+      "https://picsum.photos/seed/tiktok-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -105,7 +127,9 @@
     "editor_pick": false,
     "trending_rank": 4,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Discover and create short-form videos across entertainment, trends and learning",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "facebook",
@@ -119,10 +143,14 @@
       "communities",
       "friends"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Connect with friends, communities, pages, events and local interests.",
+    "description": "Facebook is a app in the social category. Connect with friends, communities, pages, events and local interests. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ffacebook.com",
+    "screenshots": [
+      "https://picsum.photos/seed/facebook-screen-1/720/1280",
+      "https://picsum.photos/seed/facebook-screen-2/720/1280",
+      "https://picsum.photos/seed/facebook-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -132,7 +160,9 @@
     "editor_pick": false,
     "trending_rank": 5,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Connect with friends, communities, pages, events and local interests",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "messenger",
@@ -146,10 +176,14 @@
       "calls",
       "chat"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Message Facebook contacts with chats, calls, reactions and media sharing.",
+    "description": "Messenger is a app in the communication category. Message Facebook contacts with chats, calls, reactions and media sharing. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmessenger.com",
+    "screenshots": [
+      "https://picsum.photos/seed/messenger-screen-1/720/1280",
+      "https://picsum.photos/seed/messenger-screen-2/720/1280",
+      "https://picsum.photos/seed/messenger-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -159,7 +193,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Message Facebook contacts with chats, calls, reactions and media sharing",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "x",
@@ -173,10 +209,14 @@
       "news",
       "communities"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Follow breaking conversations, creators, communities and real-time public updates.",
+    "description": "X is a app in the news category. Follow breaking conversations, creators, communities and real-time public updates. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fx.com",
+    "screenshots": [
+      "https://picsum.photos/seed/x-screen-1/720/1280",
+      "https://picsum.photos/seed/x-screen-2/720/1280",
+      "https://picsum.photos/seed/x-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -186,7 +226,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Follow breaking conversations, creators, communities and real-time public updates",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "telegram",
@@ -200,10 +242,14 @@
       "channels",
       "groups"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Fast cloud messaging with groups, channels, calls and cross-device sync.",
+    "description": "Telegram is a app in the communication category. Fast cloud messaging with groups, channels, calls and cross-device sync. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ftelegram.org",
+    "screenshots": [
+      "https://picsum.photos/seed/telegram-screen-1/720/1280",
+      "https://picsum.photos/seed/telegram-screen-2/720/1280",
+      "https://picsum.photos/seed/telegram-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -213,7 +259,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Fast cloud messaging with groups, channels, calls and cross-device sync",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "snapchat",
@@ -227,10 +275,14 @@
       "social",
       "stories"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Camera-first social messaging with stories, lenses and disappearing chats.",
+    "description": "Snapchat is a app in the social category. Camera-first social messaging with stories, lenses and disappearing chats. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fsnapchat.com",
+    "screenshots": [
+      "https://picsum.photos/seed/snapchat-screen-1/720/1280",
+      "https://picsum.photos/seed/snapchat-screen-2/720/1280",
+      "https://picsum.photos/seed/snapchat-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -240,7 +292,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Camera-first social messaging with stories, lenses and disappearing chats",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "reddit",
@@ -254,10 +308,14 @@
       "forums",
       "news"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Explore topic-based communities, discussions, news, questions and recommendations.",
+    "description": "Reddit is a app in the social category. Explore topic-based communities, discussions, news, questions and recommendations. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Freddit.com",
+    "screenshots": [
+      "https://picsum.photos/seed/reddit-screen-1/720/1280",
+      "https://picsum.photos/seed/reddit-screen-2/720/1280",
+      "https://picsum.photos/seed/reddit-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -267,7 +325,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Explore topic-based communities, discussions, news, questions and recommendations",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "pinterest",
@@ -281,10 +341,14 @@
       "inspiration",
       "images"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Save visual ideas and inspiration for design, recipes, fashion, travel and more.",
+    "description": "Pinterest is a app in the social category. Save visual ideas and inspiration for design, recipes, fashion, travel and more. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fpinterest.com",
+    "screenshots": [
+      "https://picsum.photos/seed/pinterest-screen-1/720/1280",
+      "https://picsum.photos/seed/pinterest-screen-2/720/1280",
+      "https://picsum.photos/seed/pinterest-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -294,7 +358,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Save visual ideas and inspiration for design, recipes, fashion, travel and more",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "linkedin",
@@ -308,10 +374,14 @@
       "networking",
       "career"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Professional networking, job discovery, company updates and career content.",
+    "description": "LinkedIn is a app in the business category. Professional networking, job discovery, company updates and career content. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Flinkedin.com",
+    "screenshots": [
+      "https://picsum.photos/seed/linkedin-screen-1/720/1280",
+      "https://picsum.photos/seed/linkedin-screen-2/720/1280",
+      "https://picsum.photos/seed/linkedin-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -321,7 +391,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Professional networking, job discovery, company updates and career content",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "discord",
@@ -335,10 +407,14 @@
       "voice",
       "chat"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Community chat with text, voice, video and topic-based servers.",
+    "description": "Discord is a app in the communication category. Community chat with text, voice, video and topic-based servers. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdiscord.com",
+    "screenshots": [
+      "https://picsum.photos/seed/discord-screen-1/720/1280",
+      "https://picsum.photos/seed/discord-screen-2/720/1280",
+      "https://picsum.photos/seed/discord-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -348,7 +424,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Community chat with text, voice, video and topic-based servers",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "youtube",
@@ -362,10 +440,14 @@
       "creator",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Watch videos, creators, music, live streams, tutorials and entertainment.",
+    "description": "YouTube is a app in the entertainment category. Watch videos, creators, music, live streams, tutorials and entertainment. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fyoutube.com",
+    "screenshots": [
+      "https://picsum.photos/seed/youtube-screen-1/720/1280",
+      "https://picsum.photos/seed/youtube-screen-2/720/1280",
+      "https://picsum.photos/seed/youtube-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -375,7 +457,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Watch videos, creators, music, live streams, tutorials and entertainment",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "youtube-music",
@@ -389,10 +473,14 @@
       "streaming",
       "playlists"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Stream songs, albums, playlists, mixes and music videos.",
+    "description": "YouTube Music is a app in the music audio category. Stream songs, albums, playlists, mixes and music videos. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmusic.youtube.com",
+    "screenshots": [
+      "https://picsum.photos/seed/youtube-music-screen-1/720/1280",
+      "https://picsum.photos/seed/youtube-music-screen-2/720/1280",
+      "https://picsum.photos/seed/youtube-music-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -402,7 +490,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Stream songs, albums, playlists, mixes and music videos",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "spotify",
@@ -416,10 +506,14 @@
       "podcasts",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Stream music and podcasts with playlists, recommendations and downloads.",
+    "description": "Spotify is a app in the music audio category. Stream music and podcasts with playlists, recommendations and downloads. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fspotify.com",
+    "screenshots": [
+      "https://picsum.photos/seed/spotify-screen-1/720/1280",
+      "https://picsum.photos/seed/spotify-screen-2/720/1280",
+      "https://picsum.photos/seed/spotify-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -429,7 +523,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Stream music and podcasts with playlists, recommendations and downloads",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "soundcloud",
@@ -443,10 +539,14 @@
       "artists",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Discover independent music, DJ mixes, emerging artists and audio communities.",
+    "description": "SoundCloud is a app in the music audio category. Discover independent music, DJ mixes, emerging artists and audio communities. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fsoundcloud.com",
+    "screenshots": [
+      "https://picsum.photos/seed/soundcloud-screen-1/720/1280",
+      "https://picsum.photos/seed/soundcloud-screen-2/720/1280",
+      "https://picsum.photos/seed/soundcloud-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -456,7 +556,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Discover independent music, DJ mixes, emerging artists and audio communities",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "shazam",
@@ -469,10 +571,14 @@
       "music-identification",
       "songs"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Identify songs playing around you and quickly open them in music services.",
+    "description": "Shazam is a app in the music audio category. Identify songs playing around you and quickly open them in music services. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fshazam.com",
+    "screenshots": [
+      "https://picsum.photos/seed/shazam-screen-1/720/1280",
+      "https://picsum.photos/seed/shazam-screen-2/720/1280",
+      "https://picsum.photos/seed/shazam-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -482,7 +588,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Identify songs playing around you and quickly open them in music services",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "netflix",
@@ -496,10 +604,14 @@
       "series",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Stream movies, series, documentaries and original entertainment.",
+    "description": "Netflix is a app in the entertainment category. Stream movies, series, documentaries and original entertainment. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fnetflix.com",
+    "screenshots": [
+      "https://picsum.photos/seed/netflix-screen-1/720/1280",
+      "https://picsum.photos/seed/netflix-screen-2/720/1280",
+      "https://picsum.photos/seed/netflix-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -509,7 +621,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Stream movies, series, documentaries and original entertainment",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "disney",
@@ -523,10 +637,14 @@
       "series",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Stream Disney, Pixar, Marvel, Star Wars and other entertainment collections.",
+    "description": "Disney+ is a app in the entertainment category. Stream Disney, Pixar, Marvel, Star Wars and other entertainment collections. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdisneyplus.com",
+    "screenshots": [
+      "https://picsum.photos/seed/disney-screen-1/720/1280",
+      "https://picsum.photos/seed/disney-screen-2/720/1280",
+      "https://picsum.photos/seed/disney-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -536,7 +654,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Stream Disney, Pixar, Marvel, Star Wars and other entertainment collections",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "prime-video",
@@ -550,10 +670,14 @@
       "series",
       "streaming"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Watch movies, series, rentals and Prime Video originals.",
+    "description": "Prime Video is a app in the entertainment category. Watch movies, series, rentals and Prime Video originals. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fprimevideo.com",
+    "screenshots": [
+      "https://picsum.photos/seed/prime-video-screen-1/720/1280",
+      "https://picsum.photos/seed/prime-video-screen-2/720/1280",
+      "https://picsum.photos/seed/prime-video-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -563,7 +687,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Watch movies, series, rentals and Prime Video originals",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "gmail",
@@ -577,10 +703,14 @@
       "google",
       "inbox"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Manage email with search, spam protection, labels and Google account integration.",
+    "description": "Gmail is a app in the productivity category. Manage email with search, spam protection, labels and Google account integration. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fgmail.com",
+    "screenshots": [
+      "https://picsum.photos/seed/gmail-screen-1/720/1280",
+      "https://picsum.photos/seed/gmail-screen-2/720/1280",
+      "https://picsum.photos/seed/gmail-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -590,7 +720,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Manage email with search, spam protection, labels and Google account integration",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-maps",
@@ -604,10 +736,14 @@
       "navigation",
       "local"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Navigate with maps, traffic, transit, local places and turn-by-turn directions.",
+    "description": "Google Maps is a app in the travel category. Navigate with maps, traffic, transit, local places and turn-by-turn directions. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmaps.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-maps-screen-1/720/1280",
+      "https://picsum.photos/seed/google-maps-screen-2/720/1280",
+      "https://picsum.photos/seed/google-maps-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -617,7 +753,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Navigate with maps, traffic, transit, local places and turn-by-turn directions",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-photos",
@@ -631,10 +769,14 @@
       "backup",
       "gallery"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Back up, organize, search and share photos and videos.",
+    "description": "Google Photos is a app in the photo video category. Back up, organize, search and share photos and videos. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fphotos.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-photos-screen-1/720/1280",
+      "https://picsum.photos/seed/google-photos-screen-2/720/1280",
+      "https://picsum.photos/seed/google-photos-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -644,7 +786,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Back up, organize, search and share photos and videos",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-drive",
@@ -658,10 +802,14 @@
       "storage",
       "documents"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Store, sync, share and access files across devices.",
+    "description": "Google Drive is a app in the productivity category. Store, sync, share and access files across devices. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdrive.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-drive-screen-1/720/1280",
+      "https://picsum.photos/seed/google-drive-screen-2/720/1280",
+      "https://picsum.photos/seed/google-drive-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -671,87 +819,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "google-docs",
-    "name": "Google Docs",
-    "package_name": "com.google.android.apps.docs.editors.docs",
-    "type": "app",
-    "developer": "Google LLC",
-    "category_id": "productivity",
-    "tags": [
-      "documents",
-      "writing",
-      "office"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "google-sheets",
-    "name": "Google Sheets",
-    "package_name": "com.google.android.apps.docs.editors.sheets",
-    "type": "app",
-    "developer": "Google LLC",
-    "category_id": "productivity",
-    "tags": [
-      "spreadsheets",
-      "office",
-      "data"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "google-slides",
-    "name": "Google Slides",
-    "package_name": "com.google.android.apps.docs.editors.slides",
-    "type": "app",
-    "developer": "Google LLC",
-    "category_id": "productivity",
-    "tags": [
-      "presentations",
-      "office"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Store, sync, share and access files across devices",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-calendar",
@@ -765,10 +835,14 @@
       "schedule",
       "events"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Plan events, reminders and schedules with synced calendars.",
+    "description": "Google Calendar is a app in the productivity category. Plan events, reminders and schedules with synced calendars. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fcalendar.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-calendar-screen-1/720/1280",
+      "https://picsum.photos/seed/google-calendar-screen-2/720/1280",
+      "https://picsum.photos/seed/google-calendar-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -778,34 +852,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "google-keep",
-    "name": "Google Keep",
-    "package_name": "com.google.android.keep",
-    "type": "app",
-    "developer": "Google LLC",
-    "category_id": "productivity",
-    "tags": [
-      "notes",
-      "lists",
-      "reminders"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.keep",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Plan events, reminders and schedules with synced calendars",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-translate",
@@ -819,10 +868,14 @@
       "language",
       "travel"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Translate text, speech, images and conversations across many languages.",
+    "description": "Google Translate is a app in the tools category. Translate text, speech, images and conversations across many languages. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ftranslate.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-translate-screen-1/720/1280",
+      "https://picsum.photos/seed/google-translate-screen-2/720/1280",
+      "https://picsum.photos/seed/google-translate-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -832,34 +885,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "google-authenticator",
-    "name": "Google Authenticator",
-    "package_name": "com.google.android.apps.authenticator2",
-    "type": "app",
-    "developer": "Google LLC",
-    "category_id": "security",
-    "tags": [
-      "2fa",
-      "security",
-      "authenticator"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Translate text, speech, images and conversations across many languages",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-home",
@@ -873,10 +901,14 @@
       "cast",
       "devices"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Control compatible smart-home devices, routines, speakers and connected services.",
+    "description": "Google Home is a app in the lifestyle category. Control compatible smart-home devices, routines, speakers and connected services. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fhome.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-home-screen-1/720/1280",
+      "https://picsum.photos/seed/google-home-screen-2/720/1280",
+      "https://picsum.photos/seed/google-home-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -886,7 +918,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Control compatible smart-home devices, routines, speakers and connected services",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "google-meet",
@@ -899,10 +933,14 @@
       "video-calls",
       "meetings"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Join secure video meetings, group calls and online conversations.",
+    "description": "Google Meet is a app in the communication category. Join secure video meetings, group calls and online conversations. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmeet.google.com",
+    "screenshots": [
+      "https://picsum.photos/seed/google-meet-screen-1/720/1280",
+      "https://picsum.photos/seed/google-meet-screen-2/720/1280",
+      "https://picsum.photos/seed/google-meet-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -912,7 +950,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Join secure video meetings, group calls and online conversations",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "microsoft-outlook",
@@ -926,10 +966,14 @@
       "calendar",
       "microsoft"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Email and calendar in one place with Microsoft account integration.",
+    "description": "Microsoft Outlook is a app in the productivity category. Email and calendar in one place with Microsoft account integration. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Foutlook.com",
+    "screenshots": [
+      "https://picsum.photos/seed/microsoft-outlook-screen-1/720/1280",
+      "https://picsum.photos/seed/microsoft-outlook-screen-2/720/1280",
+      "https://picsum.photos/seed/microsoft-outlook-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -939,7 +983,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Email and calendar in one place with Microsoft account integration",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "microsoft-teams",
@@ -953,10 +999,14 @@
       "chat",
       "work"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Team chat, meetings, calls and collaboration for work or school.",
+    "description": "Microsoft Teams is a app in the business category. Team chat, meetings, calls and collaboration for work or school. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmicrosoft.com",
+    "screenshots": [
+      "https://picsum.photos/seed/microsoft-teams-screen-1/720/1280",
+      "https://picsum.photos/seed/microsoft-teams-screen-2/720/1280",
+      "https://picsum.photos/seed/microsoft-teams-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -966,7 +1016,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Team chat, meetings, calls and collaboration for work or school",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "microsoft-365",
@@ -980,10 +1032,14 @@
       "documents",
       "pdf"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Access Microsoft productivity tools, files, documents and connected services.",
+    "description": "Microsoft 365 is a app in the productivity category. Access Microsoft productivity tools, files, documents and connected services. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmicrosoft365.com",
+    "screenshots": [
+      "https://picsum.photos/seed/microsoft-365-screen-1/720/1280",
+      "https://picsum.photos/seed/microsoft-365-screen-2/720/1280",
+      "https://picsum.photos/seed/microsoft-365-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -993,7 +1049,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Access Microsoft productivity tools, files, documents and connected services",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "microsoft-onedrive",
@@ -1007,10 +1065,14 @@
       "storage",
       "backup"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Cloud storage for files, photos, backups and Microsoft documents.",
+    "description": "Microsoft OneDrive is a app in the productivity category. Cloud storage for files, photos, backups and Microsoft documents. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fonedrive.com",
+    "screenshots": [
+      "https://picsum.photos/seed/microsoft-onedrive-screen-1/720/1280",
+      "https://picsum.photos/seed/microsoft-onedrive-screen-2/720/1280",
+      "https://picsum.photos/seed/microsoft-onedrive-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1020,7 +1082,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Cloud storage for files, photos, backups and Microsoft documents",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "microsoft-edge",
@@ -1034,10 +1098,14 @@
       "web",
       "microsoft"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Browse the web with syncing, privacy tools and Microsoft integrations.",
+    "description": "Microsoft Edge is a app in the tools category. Browse the web with syncing, privacy tools and Microsoft integrations. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fmicrosoft.com",
+    "screenshots": [
+      "https://picsum.photos/seed/microsoft-edge-screen-1/720/1280",
+      "https://picsum.photos/seed/microsoft-edge-screen-2/720/1280",
+      "https://picsum.photos/seed/microsoft-edge-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1047,7 +1115,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Browse the web with syncing, privacy tools and Microsoft integrations",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "dropbox",
@@ -1061,10 +1131,14 @@
       "storage",
       "backup"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Cloud file storage, syncing, sharing and backup across devices.",
+    "description": "Dropbox is a app in the productivity category. Cloud file storage, syncing, sharing and backup across devices. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fdropbox.com",
+    "screenshots": [
+      "https://picsum.photos/seed/dropbox-screen-1/720/1280",
+      "https://picsum.photos/seed/dropbox-screen-2/720/1280",
+      "https://picsum.photos/seed/dropbox-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1074,7 +1148,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Cloud file storage, syncing, sharing and backup across devices",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "notion",
@@ -1088,10 +1164,14 @@
       "workspace",
       "projects"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Organize notes, documents, projects, databases and team knowledge.",
+    "description": "Notion is a app in the productivity category. Organize notes, documents, projects, databases and team knowledge. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fnotion.so",
+    "screenshots": [
+      "https://picsum.photos/seed/notion-screen-1/720/1280",
+      "https://picsum.photos/seed/notion-screen-2/720/1280",
+      "https://picsum.photos/seed/notion-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1101,7 +1181,9 @@
     "editor_pick": true,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Organize notes, documents, projects, databases and team knowledge",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "todoist",
@@ -1115,10 +1197,14 @@
       "todo",
       "productivity"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Plan tasks, projects, reminders and recurring personal or work routines.",
+    "description": "Todoist is a app in the productivity category. Plan tasks, projects, reminders and recurring personal or work routines. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Ftodoist.com",
+    "screenshots": [
+      "https://picsum.photos/seed/todoist-screen-1/720/1280",
+      "https://picsum.photos/seed/todoist-screen-2/720/1280",
+      "https://picsum.photos/seed/todoist-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1128,61 +1214,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "trello",
-    "name": "Trello",
-    "package_name": "com.trello",
-    "type": "app",
-    "developer": "Trello, Inc.",
-    "category_id": "business",
-    "tags": [
-      "projects",
-      "boards",
-      "tasks"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.trello",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "asana",
-    "name": "Asana",
-    "package_name": "com.asana.app",
-    "type": "app",
-    "developer": "Asana, Inc.",
-    "category_id": "business",
-    "tags": [
-      "projects",
-      "tasks",
-      "team"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.asana.app",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Plan tasks, projects, reminders and recurring personal or work routines",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "slack",
@@ -1196,10 +1230,14 @@
       "chat",
       "team"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Workplace messaging with channels, direct messages and app integrations.",
+    "description": "Slack is a app in the business category. Workplace messaging with channels, direct messages and app integrations. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fslack.com",
+    "screenshots": [
+      "https://picsum.photos/seed/slack-screen-1/720/1280",
+      "https://picsum.photos/seed/slack-screen-2/720/1280",
+      "https://picsum.photos/seed/slack-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1209,7 +1247,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Workplace messaging with channels, direct messages and app integrations",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "zoom-workplace",
@@ -1223,10 +1263,14 @@
       "video-calls",
       "work"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Video meetings, team collaboration, chat and online communication.",
+    "description": "Zoom Workplace is a app in the business category. Video meetings, team collaboration, chat and online communication. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fzoom.us",
+    "screenshots": [
+      "https://picsum.photos/seed/zoom-workplace-screen-1/720/1280",
+      "https://picsum.photos/seed/zoom-workplace-screen-2/720/1280",
+      "https://picsum.photos/seed/zoom-workplace-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1236,7 +1280,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Video meetings, team collaboration, chat and online communication",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "canva",
@@ -1250,10 +1296,14 @@
       "templates",
       "graphics"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Create graphics, presentations, social posts, videos and visual designs.",
+    "description": "Canva is a app in the photo video category. Create graphics, presentations, social posts, videos and visual designs. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fcanva.com",
+    "screenshots": [
+      "https://picsum.photos/seed/canva-screen-1/720/1280",
+      "https://picsum.photos/seed/canva-screen-2/720/1280",
+      "https://picsum.photos/seed/canva-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1263,7 +1313,9 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Create graphics, presentations, social posts, videos and visual designs",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "capcut",
@@ -1277,10 +1329,14 @@
       "creator",
       "short-video"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Edit short videos with templates, effects, text, music and creator tools.",
+    "description": "CapCut is a app in the photo video category. Edit short videos with templates, effects, text, music and creator tools. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fcapcut.com",
+    "screenshots": [
+      "https://picsum.photos/seed/capcut-screen-1/720/1280",
+      "https://picsum.photos/seed/capcut-screen-2/720/1280",
+      "https://picsum.photos/seed/capcut-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1290,7 +1346,9 @@
     "editor_pick": true,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Edit short videos with templates, effects, text, music and creator tools",
+    "media_status": "temporary_placeholder"
   },
   {
     "id": "inshot",
@@ -1304,10 +1362,14 @@
       "photo-editor",
       "creator"
     ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
+    "short_description": "Edit videos and photos with trimming, filters, music, text and social formats.",
+    "description": "InShot is a app in the photo video category. Edit videos and photos with trimming, filters, music, text and social formats. This catalog summary is written for discovery purposes and can be updated remotely.",
+    "icon_url": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Finshot.com",
+    "screenshots": [
+      "https://picsum.photos/seed/inshot-screen-1/720/1280",
+      "https://picsum.photos/seed/inshot-screen-2/720/1280",
+      "https://picsum.photos/seed/inshot-screen-3/720/1280"
+    ],
     "rating": null,
     "rating_count": null,
     "downloads": null,
@@ -1317,897 +1379,8 @@
     "editor_pick": false,
     "trending_rank": null,
     "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "vn-video-editor",
-    "name": "VN Video Editor",
-    "package_name": "com.frontrow.vlog",
-    "type": "app",
-    "developer": "Ubiquiti Labs, LLC",
-    "category_id": "photo_video",
-    "tags": [
-      "video-editor",
-      "creator",
-      "editing"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.frontrow.vlog",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "lightroom",
-    "name": "Lightroom",
-    "package_name": "com.adobe.lrmobile",
-    "type": "app",
-    "developer": "Adobe",
-    "category_id": "photo_video",
-    "tags": [
-      "photo-editor",
-      "camera",
-      "presets"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "photoshop-express",
-    "name": "Photoshop Express",
-    "package_name": "com.adobe.psmobile",
-    "type": "app",
-    "developer": "Adobe",
-    "category_id": "photo_video",
-    "tags": [
-      "photo-editor",
-      "retouch",
-      "design"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.adobe.psmobile",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "picsart",
-    "name": "Picsart",
-    "package_name": "com.picsart.studio",
-    "type": "app",
-    "developer": "PicsArt, Inc.",
-    "category_id": "photo_video",
-    "tags": [
-      "photo-editor",
-      "design",
-      "ai"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.picsart.studio",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "amazon-shopping",
-    "name": "Amazon Shopping",
-    "package_name": "com.amazon.mShop.android.shopping",
-    "type": "app",
-    "developer": "Amazon Mobile LLC",
-    "category_id": "shopping",
-    "tags": [
-      "shopping",
-      "marketplace",
-      "delivery"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "ebay",
-    "name": "eBay",
-    "package_name": "com.ebay.mobile",
-    "type": "app",
-    "developer": "eBay Mobile",
-    "category_id": "shopping",
-    "tags": [
-      "shopping",
-      "marketplace",
-      "auctions"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "aliexpress",
-    "name": "AliExpress",
-    "package_name": "com.alibaba.aliexpresshd",
-    "type": "app",
-    "developer": "Alibaba Mobile",
-    "category_id": "shopping",
-    "tags": [
-      "shopping",
-      "marketplace",
-      "deals"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "airbnb",
-    "name": "Airbnb",
-    "package_name": "com.airbnb.android",
-    "type": "app",
-    "developer": "Airbnb",
-    "category_id": "travel",
-    "tags": [
-      "travel",
-      "stays",
-      "booking"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.airbnb.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "booking-com",
-    "name": "Booking.com",
-    "package_name": "com.booking",
-    "type": "app",
-    "developer": "Booking.com Hotels & Vacation Rentals",
-    "category_id": "travel",
-    "tags": [
-      "hotels",
-      "travel",
-      "booking"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.booking",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "uber",
-    "name": "Uber",
-    "package_name": "com.ubercab",
-    "type": "app",
-    "developer": "Uber Technologies, Inc.",
-    "category_id": "travel",
-    "tags": [
-      "rides",
-      "transport",
-      "delivery"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.ubercab",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "paypal",
-    "name": "PayPal",
-    "package_name": "com.paypal.android.p2pmobile",
-    "type": "app",
-    "developer": "PayPal Mobile",
-    "category_id": "finance",
-    "tags": [
-      "payments",
-      "wallet",
-      "money"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "revolut",
-    "name": "Revolut",
-    "package_name": "com.revolut.revolut",
-    "type": "app",
-    "developer": "Revolut Ltd",
-    "category_id": "finance",
-    "tags": [
-      "banking",
-      "payments",
-      "cards"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.revolut.revolut",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "coinbase",
-    "name": "Coinbase",
-    "package_name": "com.coinbase.android",
-    "type": "app",
-    "developer": "Coinbase Android",
-    "category_id": "finance",
-    "tags": [
-      "crypto",
-      "wallet",
-      "trading"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.coinbase.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "duolingo",
-    "name": "Duolingo",
-    "package_name": "com.duolingo",
-    "type": "app",
-    "developer": "Duolingo",
-    "category_id": "education",
-    "tags": [
-      "languages",
-      "learning",
-      "courses"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "featured": true,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "busuu",
-    "name": "Busuu",
-    "package_name": "com.busuu.android.enc",
-    "type": "app",
-    "developer": "Busuu",
-    "category_id": "education",
-    "tags": [
-      "languages",
-      "learning",
-      "courses"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.busuu.android.enc",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "memrise",
-    "name": "Memrise",
-    "package_name": "com.memrise.android.memrisecompanion",
-    "type": "app",
-    "developer": "Memrise",
-    "category_id": "education",
-    "tags": [
-      "languages",
-      "learning",
-      "vocabulary"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "kindle",
-    "name": "Kindle",
-    "package_name": "com.amazon.kindle",
-    "type": "app",
-    "developer": "Amazon Mobile LLC",
-    "category_id": "books",
-    "tags": [
-      "ebooks",
-      "reading",
-      "books"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.amazon.kindle",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "audible",
-    "name": "Audible",
-    "package_name": "com.audible.application",
-    "type": "app",
-    "developer": "Audible, Inc.",
-    "category_id": "books",
-    "tags": [
-      "audiobooks",
-      "podcasts",
-      "books"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.audible.application",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "brave-browser",
-    "name": "Brave Browser",
-    "package_name": "com.brave.browser",
-    "type": "app",
-    "developer": "Brave Software",
-    "category_id": "tools",
-    "tags": [
-      "browser",
-      "privacy",
-      "web"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "firefox",
-    "name": "Firefox",
-    "package_name": "org.mozilla.firefox",
-    "type": "app",
-    "developer": "Mozilla",
-    "category_id": "tools",
-    "tags": [
-      "browser",
-      "privacy",
-      "web"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=org.mozilla.firefox",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "duckduckgo",
-    "name": "DuckDuckGo",
-    "package_name": "com.duckduckgo.mobile.android",
-    "type": "app",
-    "developer": "DuckDuckGo",
-    "category_id": "security",
-    "tags": [
-      "browser",
-      "privacy",
-      "search"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "bitwarden",
-    "name": "Bitwarden",
-    "package_name": "com.x8bit.bitwarden",
-    "type": "app",
-    "developer": "Bitwarden Inc.",
-    "category_id": "security",
-    "tags": [
-      "passwords",
-      "security",
-      "vault"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.x8bit.bitwarden",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "speedtest-by-ookla",
-    "name": "Speedtest by Ookla",
-    "package_name": "org.zwanoo.android.speedtest",
-    "type": "app",
-    "developer": "Ookla",
-    "category_id": "tools",
-    "tags": [
-      "internet",
-      "speed-test",
-      "network"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "truecaller",
-    "name": "Truecaller",
-    "package_name": "com.truecaller",
-    "type": "app",
-    "developer": "Truecaller",
-    "category_id": "communication",
-    "tags": [
-      "caller-id",
-      "spam",
-      "calls"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.truecaller",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "whatsapp-business",
-    "name": "WhatsApp Business",
-    "package_name": "com.whatsapp.w4b",
-    "type": "app",
-    "developer": "WhatsApp LLC",
-    "category_id": "business",
-    "tags": [
-      "messaging",
-      "business",
-      "customer-service"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "strava",
-    "name": "Strava",
-    "package_name": "com.strava",
-    "type": "app",
-    "developer": "Strava Inc.",
-    "category_id": "health",
-    "tags": [
-      "running",
-      "cycling",
-      "fitness"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.strava",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "myfitnesspal",
-    "name": "MyFitnessPal",
-    "package_name": "com.myfitnesspal.android",
-    "type": "app",
-    "developer": "MyFitnessPal, Inc.",
-    "category_id": "health",
-    "tags": [
-      "nutrition",
-      "fitness",
-      "calories"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.myfitnesspal.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "fitbit",
-    "name": "Fitbit",
-    "package_name": "com.fitbit.FitbitMobile",
-    "type": "app",
-    "developer": "Fitbit LLC",
-    "category_id": "health",
-    "tags": [
-      "fitness",
-      "health",
-      "wearables"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "nike-run-club",
-    "name": "Nike Run Club",
-    "package_name": "com.nike.plusgps",
-    "type": "app",
-    "developer": "Nike, Inc.",
-    "category_id": "health",
-    "tags": [
-      "running",
-      "fitness",
-      "training"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.nike.plusgps",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "calm",
-    "name": "Calm",
-    "package_name": "com.calm.android",
-    "type": "app",
-    "developer": "Calm.com, Inc.",
-    "category_id": "health",
-    "tags": [
-      "meditation",
-      "sleep",
-      "wellness"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.calm.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "headspace",
-    "name": "Headspace",
-    "package_name": "com.getsomeheadspace.android",
-    "type": "app",
-    "developer": "Headspace for Meditation, Mindfulness and Sleep",
-    "category_id": "health",
-    "tags": [
-      "meditation",
-      "sleep",
-      "wellness"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.getsomeheadspace.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "accuweather",
-    "name": "AccuWeather",
-    "package_name": "com.accuweather.android",
-    "type": "app",
-    "developer": "AccuWeather",
-    "category_id": "weather",
-    "tags": [
-      "weather",
-      "forecast",
-      "alerts"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.accuweather.android",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
-  },
-  {
-    "id": "the-weather-channel",
-    "name": "The Weather Channel",
-    "package_name": "com.weather.Weather",
-    "type": "app",
-    "developer": "The Weather Channel",
-    "category_id": "weather",
-    "tags": [
-      "weather",
-      "forecast",
-      "alerts"
-    ],
-    "short_description": null,
-    "description": null,
-    "icon_url": null,
-    "screenshots": [],
-    "rating": null,
-    "rating_count": null,
-    "downloads": null,
-    "price_type": "free_or_freemium",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.weather.Weather",
-    "featured": false,
-    "editor_pick": false,
-    "trending_rank": null,
-    "active": true,
-    "data_quality": "curated_static_v1"
+    "data_quality": "curated_static_v1",
+    "subtitle": "Edit videos and photos with trimming, filters, music, text and social formats",
+    "media_status": "temporary_placeholder"
   }
 ]
