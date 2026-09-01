@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "sections": [
+    {
+      "id": "trending_apps",
+      "title": "Trending Apps",
+      "type": "app",
+      "style": "horizontal",
+      "item_ids": [
+        "chatgpt",
+        "whatsapp-messenger",
+        "instagram",
+        "tiktok",
+        "facebook"
+      ]
+    },
+    {
+      "id": "trending_games",
+      "title": "Trending Games",
+      "type": "game",
+      "style": "horizontal",
+      "item_ids": [
+        "roblox",
+        "free-fire",
+        "pubg-mobile"
+      ]
+    },
+    {
+      "id": "featured_apps",
+      "title": "Featured Apps",
+      "type": "app",
+      "style": "grid",
+      "item_ids": [
+        "chatgpt",
+        "whatsapp-messenger",
+        "instagram",
+        "tiktok",
+        "telegram",
+        "discord",
+        "youtube",
+        "spotify",
+        "netflix",
+        "gmail",
+        "google-maps",
+        "notion"
+      ]
+    },
+    {
+      "id": "featured_games",
+      "title": "Featured Games",
+      "type": "game",
+      "style": "grid",
+      "item_ids": [
+        "roblox",
+        "free-fire",
+        "pubg-mobile",
+        "call-of-duty-mobile",
+        "brawl-stars",
+        "clash-of-clans",
+        "clash-royale",
+        "candy-crush-saga",
+        "township",
+        "8-ball-pool",
+        "subway-surfers",
+        "minecraft"
+      ]
+    },
+    {
+      "id": "editors_picks_apps",
+      "title": "Editor's Picks",
+      "type": "app",
+      "style": "horizontal",
+      "item_ids": [
+        "chatgpt",
+        "whatsapp-messenger",
+        "notion",
+        "capcut"
+      ]
+    },
+    {
+      "id": "editors_picks_games",
+      "title": "Games We Like",
+      "type": "game",
+      "style": "horizontal",
+      "item_ids": [
+        "roblox",
+        "clash-of-clans",
+        "subway-surfers",
+        "minecraft",
+        "genshin-impact"
+      ]
+    }
+  ]
+}

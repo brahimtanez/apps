@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-01",
+  "counts": {
+    "apps": 82,
+    "games": 69,
+    "total": 151,
+    "app_categories": 18,
+    "game_categories": 12
+  },
+  "files": [
+    "app_config.json",
+    "categories.json",
+    "apps.json",
+    "games.json",
+    "home.json"
+  ],
+  "data_policy": {
+    "catalog": "Curated starter data for prototyping.",
+    "dynamic_fields": [
+      "rating",
+      "rating_count",
+      "downloads",
+      "description",
+      "icon_url",
+      "screenshots"
+    ],
+    "dynamic_fields_status": "left null/empty intentionally",
+    "play_store_links": "Direct links constructed from package_name."
+  }
+}
