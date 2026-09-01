@@ -11,7 +11,10 @@
         "whatsapp-messenger",
         "instagram",
         "tiktok",
-        "facebook"
+        "capcut",
+        "canva",
+        "telegram",
+        "spotify"
       ]
     },
     {
@@ -22,7 +25,12 @@
       "item_ids": [
         "roblox",
         "free-fire",
-        "pubg-mobile"
+        "pubg-mobile",
+        "brawl-stars",
+        "minecraft",
+        "ea-sports-fc-mobile",
+        "genshin-impact",
+        "mobile-legends-bang-bang"
       ]
     },
     {
@@ -32,17 +40,17 @@
       "style": "grid",
       "item_ids": [
         "chatgpt",
-        "whatsapp-messenger",
-        "instagram",
-        "tiktok",
-        "telegram",
-        "discord",
+        "canva",
+        "capcut",
+        "notion",
         "youtube",
         "spotify",
-        "netflix",
-        "gmail",
         "google-maps",
-        "notion"
+        "discord",
+        "netflix",
+        "linkedin",
+        "dropbox",
+        "zoom-workplace"
       ]
     },
     {
@@ -51,18 +59,50 @@
       "type": "game",
       "style": "grid",
       "item_ids": [
+        "minecraft",
         "roblox",
-        "free-fire",
-        "pubg-mobile",
-        "call-of-duty-mobile",
-        "brawl-stars",
         "clash-of-clans",
         "clash-royale",
-        "candy-crush-saga",
-        "township",
-        "8-ball-pool",
         "subway-surfers",
-        "minecraft"
+        "stumble-guys",
+        "efootball",
+        "ea-sports-fc-mobile",
+        "honkai-star-rail",
+        "pok-mon-go",
+        "township",
+        "8-ball-pool"
+      ]
+    },
+    {
+      "id": "new_apps",
+      "title": "Explore Apps",
+      "type": "app",
+      "style": "horizontal",
+      "item_ids": [
+        "microsoft-365",
+        "google-home",
+        "todoist",
+        "slack",
+        "inshot",
+        "pinterest",
+        "reddit",
+        "shazam"
+      ]
+    },
+    {
+      "id": "new_games",
+      "title": "Explore Games",
+      "type": "game",
+      "style": "horizontal",
+      "item_ids": [
+        "squad-busters",
+        "honkai-star-rail",
+        "gardenscapes",
+        "hay-day",
+        "candy-crush-soda-saga",
+        "call-of-duty-mobile",
+        "free-fire-max",
+        "pok-mon-go"
       ]
     },
     {
@@ -72,22 +112,29 @@
       "style": "horizontal",
       "item_ids": [
         "chatgpt",
-        "whatsapp-messenger",
         "notion",
-        "capcut"
+        "canva",
+        "google-photos",
+        "google-maps",
+        "spotify",
+        "telegram",
+        "dropbox"
       ]
     },
     {
       "id": "editors_picks_games",
-      "title": "Games We Like",
+      "title": "Game Picks",
       "type": "game",
       "style": "horizontal",
       "item_ids": [
-        "roblox",
-        "clash-of-clans",
-        "subway-surfers",
         "minecraft",
-        "genshin-impact"
+        "genshin-impact",
+        "brawl-stars",
+        "subway-surfers",
+        "clash-of-clans",
+        "efootball",
+        "roblox",
+        "stumble-guys"
       ]
     }
   ]
