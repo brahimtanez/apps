@@ -9,7 +9,7 @@
   "default_country": "MA",
   "default_language": "en",
   "cache_ttl_minutes": 360,
-  "remote_base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data",
+  "remote_base_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa",
   "files": {
     "apps": "apps.json",
     "games": "games.json",
