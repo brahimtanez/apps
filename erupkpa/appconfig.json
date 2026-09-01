@@ -1,0 +1,50 @@
+{
+  "configVersion": 1,
+  "schema_version": 1,
+  "data_version": 1,
+  "catalog_name": "AppScout Catalog",
+  "cache_ttl_minutes": 360,
+  "remote_base_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa",
+  "files": {
+    "apps": "apps.json",
+    "games": "games.json",
+    "categories": "categories.json",
+    "home": "home.json"
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "We'll be right back",
+    "message": "The app is temporarily under maintenance."
+  },
+  "forceUpdate": {
+    "enabled": false,
+    "minimumVersion": "1.0.0",
+    "title": "Update required",
+    "message": "Please update the app to continue.",
+    "buttonText": "Update now",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.example.appscout"
+  },
+  "startup": {
+    "requireInternet": false
+  },
+  "notifications": {
+    "enabled": false
+  },
+  "links": {
+    "privacyUrl": "https://example.com/privacy",
+    "supportEmail": "support@example.com"
+  },
+  "ads": {
+    "enabled": true,
+    "banner": true,
+    "bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": true,
+    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "interstitialEvery": 4,
+    "globalInterstitialCounter": true,
+    "native": false,
+    "nativeId": "ca-app-pub-3940256099942544/2247696110",
+    "rewarded": false,
+    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+  }
+}
