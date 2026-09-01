@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "data_version": 1,
+  "catalog_name": "AppScout Starter Catalog",
+  "generated_on": "2026-09-01",
+  "maintenance": false,
+  "min_supported_app_version": 1,
+  "force_update": false,
+  "default_country": "MA",
+  "default_language": "en",
+  "cache_ttl_minutes": 360,
+  "remote_base_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data",
+  "files": {
+    "apps": "apps.json",
+    "games": "games.json",
+    "categories": "categories.json",
+    "home": "home.json",
+    "manifest": "manifest.json"
+  },
+  "notes": "Ratings, install counts, descriptions, icons and screenshots are intentionally not hardcoded in V1 because they change frequently or may require separate content-rights review."
+}
