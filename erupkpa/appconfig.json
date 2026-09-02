@@ -42,9 +42,9 @@
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "interstitialEvery": 4,
     "globalInterstitialCounter": true,
-    "native": false,
+    "native": true,
     "nativeId": "ca-app-pub-3940256099942544/2247696110",
-    "rewarded": false,
+    "rewarded": true,
     "rewardedId": "ca-app-pub-3940256099942544/5224354917"
   }
 }
