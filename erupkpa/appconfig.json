@@ -17,11 +17,11 @@
     "message": "The app is temporarily under maintenance."
   },
   "forceUpdate": {
-    "enabled": true,
-    "minimumVersion": "2.0.0",
-    "title": "Update required hoho",
-    "message": "Please update the app to continue. ola nslkhek",
-    "buttonText": "Update now srbi ",
+    "enabled": false,
+    "minimumVersion": "1.0.0",
+    "title": "Update required",
+    "message": "Please update the app to continue.",
+    "buttonText": "Update now",
     "androidUrl": "https://play.google.com/store/apps/details?id=com.apkpure.app"
   },
   "startup": {
