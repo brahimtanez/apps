@@ -17,12 +17,12 @@
     "message": "The app is temporarily under maintenance."
   },
   "forceUpdate": {
-    "enabled": false,
-    "minimumVersion": "1.0.0",
-    "title": "Update required",
-    "message": "Please update the app to continue.",
-    "buttonText": "Update now",
-    "androidUrl": "https://play.google.com/store/apps/details?id=com.example.appscout"
+    "enabled": true,
+    "minimumVersion": "2.0.0",
+    "title": "Update required hoho",
+    "message": "Please update the app to continue. ola nslkhek",
+    "buttonText": "Update now srbi ",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.apkpure.app"
   },
   "startup": {
     "requireInternet": false
@@ -35,7 +35,7 @@
     "supportEmail": "apkpure-mobileapp@outlook.com"
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "banner": true,
     "bannerId": "ca-app-pub-3940256099942544/6300978111",
     "interstitial": true,
