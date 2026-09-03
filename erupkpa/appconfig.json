@@ -31,8 +31,8 @@
     "enabled": false
   },
   "links": {
-    "privacyUrl": "https://example.com/privacy",
-    "supportEmail": "support@example.com"
+    "privacyUrl": "https://sites.google.com/view/privacy-apkpure/home",
+    "supportEmail": "apkpure-mobileapp@outlook.com"
   },
   "ads": {
     "enabled": true,
