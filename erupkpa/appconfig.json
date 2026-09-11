@@ -28,7 +28,7 @@
     "requireInternet": false
   },
   "notifications": {
-    "enabled": false
+    "enabled": true
   },
   "links": {
     "privacyUrl": "https://sites.google.com/view/privacy-apkpure/home",
