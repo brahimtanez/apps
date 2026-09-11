@@ -35,16 +35,16 @@
     "supportEmail": "apkpure-mobileapp@outlook.com"
   },
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "banner": true,
-    "bannerId": "ca-app-pub-3940256099942544/6300978111",
+    "bannerId": "ca-app-pub-7700910344505451/3743926547",
     "interstitial": true,
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "interstitialEvery": 4,
+    "interstitialId": "ca-app-pub-7700910344505451/7958503728",
+    "interstitialEvery": 2,
     "globalInterstitialCounter": true,
     "native": true,
-    "nativeId": "ca-app-pub-3940256099942544/2247696110",
-    "rewarded": true,
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+    "nativeId": "ca-app-pub-7700910344505451/9383266033",
+    "rewarded": false,
+    "rewardedId": "ca-app-pub-3940256099942544/xx"
   }
 }
