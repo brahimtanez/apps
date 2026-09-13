@@ -36,7 +36,7 @@
   },
   "ads": {
     "enabled": true,
-    "testMode": false,
+    "testMode": true,
 
     "AppOpen": {
       "enabled": true,
