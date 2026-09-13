@@ -40,31 +40,29 @@
 
     "AppOpen": {
       "enabled": true,
-      "androidAdUnitId": "ca-app-pub-5328735289575157/5873285536"
+      "androidAdUnitId": "ca-app-pub-7700910344505451/6645422056"
     },
-
 
         "Reward": {
       "enabled": true,
-      "androidAdUnitId": "ca-app-pub-5328735289575157/4151717128"
+      "androidAdUnitId": "ca-app-pub-7700910344505451/4151717128"
     },
-
 
         "banner": {
       "enabled": true,
-      "androidAdUnitId": "ca-app-pub-5328735289575157/8032545018"
+      "androidAdUnitId": "ca-app-pub-7700910344505451/3743926547"
     },
 
     "native": {
       "enabled": true,
-      "androidAdUnitId": "ca-app-pub-5328735289575157/8499448871",
+      "androidAdUnitId": "ca-app-pub-7700910344505451/9383266033 ",
       "firstAfterItems": 6,
       "everyItems": 6
     },
 
     "interstitial": {
       "enabled": true,
-      "androidAdUnitId": "ca-app-pub-5328735289575157/2269082441",
+      "androidAdUnitId": "ca-app-pub-7700910344505451/7958503728",
       "everyEligibleActions": 2
     }
   }
