@@ -1,0 +1,92 @@
+{
+  "config_version": 1,
+  "updated_at": "2026-09-18T23:30:00Z",
+  "app": {
+    "enabled": true,
+    "maintenance": false,
+    "minimum_version_code": 1,
+    "latest_version_code": 1,
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.apkpure.app"
+  },
+  "routing": {
+    "country_source": "sim",
+    "default_server": "server_main",
+    "no_sim_server": "server_main",
+    "server_order": [
+      "server_2"
+    ]
+  },
+  "servers": {
+    "server_main": {
+      "enabled": true,
+      "api_base_url": "https://marouaneai.com/apkpurebackend/api/",
+      "rest_api_key": "REPLACE_WITH_CURRENT_REST_API_KEY"
+    },
+    "server_2": {
+      "enabled": true,
+      "api_base_url": "https://marouaneai.com/apkpurebackend/api/",
+      "rest_api_key": "REPLACE_WITH_CURRENT_REST_API_KEY",
+      "countries": [
+        "MA",
+        "ES",
+        "US",
+        "IN"
+      ],
+      "fallback_server": "server_main"
+    }
+  },
+  "ads": {
+    "readMe": "ad_status: on/off | ad_type: admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin - ironsource - wortise | backup_ads: same values or none | test_mode: 1=test, 0=production",
+    "id": 1,
+    "ad_status": "on",
+    "ad_type": "admob",
+    "backup_ads": "none",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 6,
+    "native_ad_index": 6,
+    "admob_publisher_id": "pub-3940256099942544",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "applovin_banner_ad_unit_id": "xx",
+    "applovin_interstitial_ad_unit_id": "xx",
+    "applovin_native_ad_manual_unit_id": "xx",
+    "applovin_app_open_ad_unit_id": "xx",
+    "applovin_banner_mrec_zone_id": "xx",
+    "applovin_banner_zone_id": "xx",
+    "applovin_interstitial_zone_id": "xx",
+    "ironsource_app_key": "xx",
+    "ironsource_banner_placement_name": "DefaultBanner",
+    "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    "ad_manager_banner_unit_id": "/21775744923/example/fixed-size-banner",
+    "ad_manager_interstitial_unit_id": "/21775744923/example/interstitial",
+    "ad_manager_native_unit_id": "/21775744923/example/native",
+    "ad_manager_app_open_ad_unit_id": "/21775744923/example/app-open",
+    "fan_banner_unit_id": "xx",
+    "fan_interstitial_unit_id": "xx",
+    "fan_native_unit_id": "xx",
+    "startapp_app_id": "0",
+    "unity_game_id": "0",
+    "unity_banner_placement_id": "0",
+    "unity_interstitial_placement_id": "0",
+    "wortise_app_id": "xx",
+    "wortise_banner_unit_id": "xx",
+    "wortise_interstitial_unit_id": "xx",
+    "wortise_native_unit_id": "xx",
+    "wortise_app_open_unit_id": "xx",
+    "test_mode": 1
+  },
+  "push": {
+    "enabled": false,
+    "provider": "onesignal",
+    "onesignal_app_id": ""
+  },
+  "settings": {
+    "privacy_policy_url": "",
+    "terms_url": "",
+    "more_apps_url": ""
+  }
+}
