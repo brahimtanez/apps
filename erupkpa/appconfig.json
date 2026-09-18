@@ -40,7 +40,7 @@
     "bannerId": "ca-app-pub-7700910344505451/3743926547",
     "interstitial": true,
     "interstitialId": "ca-app-pub-7700910344505451/7958503728",
-    "interstitialEvery": 2,
+    "interstitialEvery": 6,
     "globalInterstitialCounter": true,
     "native": true,
     "nativeId": "ca-app-pub-7700910344505451/9383266033",
