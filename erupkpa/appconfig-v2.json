@@ -56,14 +56,14 @@
     "native": {
       "enabled": true,
       "androidAdUnitId": "ca-app-pub-7700910344505451/9383266033 ",
-      "firstAfterItems": 6,
-      "everyItems": 6
+      "firstAfterItems": 9,
+      "everyItems": 9
     },
 
     "interstitial": {
       "enabled": true,
       "androidAdUnitId": "ca-app-pub-7700910344505451/7958503728",
-      "everyEligibleActions": 2
+      "everyEligibleActions": 4
     }
   }
 
