@@ -42,41 +42,52 @@
     "ad_status": "on",
     "ad_type": "admob",
     "backup_ads": "none",
+    
     "interstitial_ad_interval": 3,
     "native_ad_interval": 6,
     "native_ad_index": 6,
+    
     "admob_publisher_id": "pub-3940256099942544",
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
     "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    
     "applovin_banner_ad_unit_id": "xx",
     "applovin_interstitial_ad_unit_id": "xx",
     "applovin_native_ad_manual_unit_id": "xx",
     "applovin_app_open_ad_unit_id": "xx",
+    
     "applovin_banner_mrec_zone_id": "xx",
     "applovin_banner_zone_id": "xx",
     "applovin_interstitial_zone_id": "xx",
+    
     "ironsource_app_key": "xx",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
+    
     "ad_manager_banner_unit_id": "/21775744923/example/fixed-size-banner",
     "ad_manager_interstitial_unit_id": "/21775744923/example/interstitial",
     "ad_manager_native_unit_id": "/21775744923/example/native",
     "ad_manager_app_open_ad_unit_id": "/21775744923/example/app-open",
+    
     "fan_banner_unit_id": "xx",
     "fan_interstitial_unit_id": "xx",
     "fan_native_unit_id": "xx",
+    
     "startapp_app_id": "0",
+    
     "unity_game_id": "0",
     "unity_banner_placement_id": "0",
     "unity_interstitial_placement_id": "0",
+    
     "wortise_app_id": "xx",
     "wortise_banner_unit_id": "xx",
     "wortise_interstitial_unit_id": "xx",
     "wortise_native_unit_id": "xx",
     "wortise_app_open_unit_id": "xx",
+    
     "test_mode": 1
   },
   "push": {
