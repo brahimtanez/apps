@@ -21,12 +21,12 @@
     "server_main": {
       "enabled": true,
       "api_base_url": "https://marouaneai.com/apkpurebackend/api/",
-      "rest_api_key": "REPLACE_WITH_CURRENT_REST_API_KEY"
+      "rest_api_key": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w"
     },
     "server_2": {
       "enabled": true,
       "api_base_url": "https://marouaneai.com/apkpurebackend/api/",
-      "rest_api_key": "REPLACE_WITH_CURRENT_REST_API_KEY",
+      "rest_api_key": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
       "countries": [
         "MA",
         "ES",
