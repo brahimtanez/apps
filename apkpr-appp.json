@@ -20,7 +20,7 @@
   "servers": {
     "server_main": {
       "enabled": true,
-      "api_base_url": "https://marouaneai.com/apkpurebackend/",
+      "api_base_url": "https://marouaneai.com/apkpurebackend/"
     },
     "server_2": {
       "enabled": true,
