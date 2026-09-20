@@ -25,7 +25,7 @@
     "server_2": {
       "enabled": true,
       "api_base_url": "https://marouaneai.com/apkmod/",
-      "countries": ["EG","FR","US","IN"],
+      "countries": ["EG","FR","IN"],
       "fallback_server": "server_main"
     }
   },
