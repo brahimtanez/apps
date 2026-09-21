@@ -24,15 +24,15 @@
     },
     "server_2": {
       "enabled": true,
-      "api_base_url": "https://marouaneai.com/apkmod/",
-      "countries": ["ES","FR","IN"],
+      "api_base_url": "https://marouaneai.com/apkpurebackend/",
+      "countries": ["ES"],
       "fallback_server": "server_main"
     }
   },
   "ads": {
     "readMe": "ad_status: on/off | ad_type: admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin - ironsource - wortise | backup_ads: same values or none | test_mode: 1=test, 0=production",
     "id": 1,
-    "ad_status": "on",
+    "ad_status": "off",
     "ad_type": "admob",
     "backup_ads": "none",
     
@@ -40,12 +40,12 @@
     "native_ad_interval": 6,
     "native_ad_index": 6,
     
-    "admob_publisher_id": "pub-3940256099942544",
-    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_publisher_id": "pub-3940256099942545",
+    "admob_app_id": "ca-app-pub-3940256099942545~3347511713",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942545/6300978111",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942545/1033173712",
+    "admob_native_unit_id": "ca-app-pub-3940256099942545/2247696110",
+    "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942545/9257395921",
     
     "applovin_banner_ad_unit_id": "xx",
     "applovin_interstitial_ad_unit_id": "xx",
