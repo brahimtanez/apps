@@ -81,7 +81,7 @@
     "wortise_native_unit_id": "xx",
     "wortise_app_open_unit_id": "xx",
     
-    "test_mode": 1
+    "test_mode": 0
   },
   "push": {
     "enabled": false,
