@@ -36,7 +36,7 @@
     "ad_type": "admob",
     "backup_ads": "none",
     
-    "interstitial_ad_interval": 2,
+    "interstitial_ad_interval": 4,
     "native_ad_interval": 9,
     "native_ad_index": 9,
     
