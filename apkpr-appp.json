@@ -37,8 +37,8 @@
     "backup_ads": "none",
     
     "interstitial_ad_interval": 4,
-    "native_ad_interval": 9,
-    "native_ad_index": 9,
+    "native_ad_interval": 12,
+    "native_ad_index": 12,
     
     "admob_publisher_id": "pub-7700910344505451",
     "admob_app_id": "ca-app-pub-7700910344505451~3347511713",
