@@ -34,9 +34,9 @@
     "id": 1,
     "ad_status": "on",
     "ad_type": "admob",
-    "backup_ads": "none",
+    "backup_ads": "applovin",
     
-    "interstitial_ad_interval": 4,
+    "interstitial_ad_interval": 3,
     "native_ad_interval": 12,
     "native_ad_index": 12,
     
@@ -47,10 +47,10 @@
     "admob_native_unit_id": "ca-app-pub-7700910344505451/3518345626",
     "admob_app_open_ad_unit_id": "ca-app-pub-7700910344505451/3191042568",
     
-    "applovin_banner_ad_unit_id": "xx",
-    "applovin_interstitial_ad_unit_id": "xx",
-    "applovin_native_ad_manual_unit_id": "xx",
-    "applovin_app_open_ad_unit_id": "xx",
+    "applovin_banner_ad_unit_id": "66efd00c856ba23f",
+    "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
+    "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
+    "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
     
     "applovin_banner_mrec_zone_id": "xx",
     "applovin_banner_zone_id": "xx",
