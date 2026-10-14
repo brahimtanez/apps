@@ -30,10 +30,10 @@
     }
   },
   "ads": {
-    "readMe": "ad_status: on/off | ad_type: admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin - ironsource - wortise | backup_ads: same values or none | test_mode: 1=test, 0=production",
+    "readMe": "ad_status: on/off | ad_type: admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin_max - ironsource - wortise | backup_ads: same values or none | test_mode: 1=test, 0=production",
     "id": 1,
     "ad_status": "on",
-    "ad_type": "applovin",
+    "ad_type": "applovin_max",
     "backup_ads": "none",
     
     "interstitial_ad_interval": 3,
