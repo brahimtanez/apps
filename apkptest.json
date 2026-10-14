@@ -52,9 +52,9 @@
     "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
     "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
     
-    "applovin_banner_mrec_zone_id": "66efd00c856ba23f",
-    "applovin_banner_zone_id": "66efd00c856ba23f",
-    "applovin_interstitial_zone_id": "f8e3b39a5bd8cccc",
+    "applovin_banner_mrec_zone_id": "0",
+    "applovin_banner_zone_id": "0",
+    "applovin_interstitial_zone_id": "0",
     
     "ironsource_app_key": "xx",
     "ironsource_banner_placement_name": "DefaultBanner",
