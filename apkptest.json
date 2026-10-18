@@ -36,7 +36,7 @@
 
     "id": 1,
     "ad_status": "on",
-    "ad_type": "applovin_maxxx",
+    "ad_type": "applovin_max",
     "backup_ads": "admob",
     "interstitial_ad_interval": 3,
     "native_ad_interval": 12,
