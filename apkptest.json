@@ -60,22 +60,23 @@
       "enabled": true,
       "banner_rotation_seconds": 60,
       "native_rotation_seconds": 0,
+      
       "banner": [
         {
           "id": "house-banner-01",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.app"
         },
         {
           "id": "house-banner-02",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.app"
         },
         {
           "id": "house-banner-03",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.app"
         }
@@ -83,7 +84,7 @@
       "native": [
         {
           "id": "house-native-01",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.app",
           "title": "APKPure",
@@ -93,7 +94,7 @@
         },
         {
           "id": "house-native-02",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
@@ -103,7 +104,7 @@
         },
         {
           "id": "house-native-03",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
