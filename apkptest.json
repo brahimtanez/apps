@@ -1,6 +1,6 @@
 {
   "config_version": 1,
-  "updated_at": "2026-09-18T23:30:00Z",
+  "updated_at": "2026-10-18T13:42:00Z",
   "app": {
     "enabled": true,
     "maintenance": false,
@@ -25,63 +25,90 @@
     "server_2": {
       "enabled": true,
       "api_base_url": "https://marouaneai.com/apkpurebackend/",
-      "countries": ["ES"],
+      "countries": [
+        "ES"
+      ],
       "fallback_server": "server_main"
     }
   },
   "ads": {
-    "readMe": "ad_status: on/off | ad_type: admob - fan - google_ad_manager - startapp - unity - applovin_discovery - applovin_max - ironsource - wortise | backup_ads: same values or none | test_mode: 1=test, 0=production",
+    "readMe": "ad_status: on/off | ad_type: admob -  - applovin_max -  | backup_ads: same values or none | test_mode: 1=test, 0=production",
+
     "id": 1,
     "ad_status": "on",
     "ad_type": "applovin_max",
-    "backup_ads": "none",
-    
+    "backup_ads": "admob",
     "interstitial_ad_interval": 3,
     "native_ad_interval": 12,
     "native_ad_index": 12,
-    
+    "applovin_banner_ad_unit_id": "66efd00c856ba23f",
+    "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
+    "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
+    "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
     "admob_publisher_id": "pub-xx",
     "admob_app_id": "ca-app-pub-xx~3347511713",
     "admob_banner_unit_id": "ca-app-pub-xx/3981380056",
     "admob_interstitial_unit_id": "ca-app-pub-xx/4010309377",
     "admob_native_unit_id": "ca-app-pub-xx/3518345626",
     "admob_app_open_ad_unit_id": "ca-app-pub-xx/3191042568",
-    
-    "applovin_banner_ad_unit_id": "66efd00c856ba23f",
-    "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
-    "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
-    "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
-    
-    "applovin_banner_mrec_zone_id": "0",
-    "applovin_banner_zone_id": "0",
-    "applovin_interstitial_zone_id": "0",
-    
-    "ironsource_app_key": "xx",
-    "ironsource_banner_placement_name": "DefaultBanner",
-    "ironsource_interstitial_placement_name": "DefaultInterstitial",
-    
-    "ad_manager_banner_unit_id": "/21775744923/example/fixed-size-banner",
-    "ad_manager_interstitial_unit_id": "/21775744923/example/interstitial",
-    "ad_manager_native_unit_id": "/21775744923/example/native",
-    "ad_manager_app_open_ad_unit_id": "/21775744923/example/app-open",
-    
-    "fan_banner_unit_id": "xx",
-    "fan_interstitial_unit_id": "xx",
-    "fan_native_unit_id": "xx",
-    
-    "startapp_app_id": "0",
-    
-    "unity_game_id": "0",
-    "unity_banner_placement_id": "0",
-    "unity_interstitial_placement_id": "0",
-    
-    "wortise_app_id": "xx",
-    "wortise_banner_unit_id": "xx",
-    "wortise_interstitial_unit_id": "xx",
-    "wortise_native_unit_id": "xx",
-    "wortise_app_open_unit_id": "xx",
-    
-    "test_mode": 0
+    "test_mode": 0,
+    "house": {
+      "enabled": true,
+      "banner_rotation_seconds": 60,
+      "native_rotation_seconds": 0,
+      "banner": [
+        {
+          "id": "house-banner-01",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        },
+        {
+          "id": "house-banner-02",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        },
+        {
+          "id": "house-banner-03",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        }
+      ],
+      "native": [
+        {
+          "id": "house-native-01",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        },
+        {
+          "id": "house-native-02",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        },
+        {
+          "id": "house-native-03",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        }
+      ]
+    }
   },
   "push": {
     "enabled": false,
@@ -94,3 +121,4 @@
     "more_apps_url": "https://play.google.com/store/apps/developer?id=Apkpure"
   }
 }
+
