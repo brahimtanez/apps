@@ -4,8 +4,8 @@
   "app": {
     "enabled": true,
     "maintenance": false,
-    "minimum_version_code": 1,
-    "latest_version_code": 1,
+    "minimum_version_code": 3,
+    "latest_version_code": 3,
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
   },
@@ -45,7 +45,8 @@
     "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
     "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
     "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
-
+    
+    "admob_publisher_id": "pub-7700910344505451",
     "admob_banner_unit_id": "ca-app-pub-7700910344505451/3981380056",
     "admob_interstitial_unit_id": "ca-app-pub-7700910344505451/4010309377",
     "admob_native_unit_id": "ca-app-pub-7700910344505451/3518345626",
