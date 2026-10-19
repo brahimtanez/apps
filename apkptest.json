@@ -62,19 +62,19 @@
         {
           "id": "house-banner-01",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-960x150-01.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         },
         {
           "id": "house-banner-02",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-960x150-02.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         },
         {
           "id": "house-banner-03",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/banner-960x150-03.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         }
       ],
@@ -82,7 +82,7 @@
         {
           "id": "house-native-01",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-1200x628-01.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
           "body": "Discover apps and games",
@@ -92,7 +92,7 @@
         {
           "id": "house-native-02",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-1200x628-02.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
           "body": "Discover apps and games",
@@ -102,7 +102,7 @@
         {
           "id": "house-native-03",
           "enabled": true,
-          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/main/erupkpa/native-1200x628-03.png",
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
           "body": "Discover apps and games",
