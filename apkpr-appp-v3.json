@@ -1,0 +1,125 @@
+{
+  "config_version": 3,
+  "updated_at": "2026-10-19T08:00:00Z",
+  "app": {
+    "enabled": true,
+    "maintenance": false,
+    "minimum_version_code": 3,
+    "latest_version_code": 3,
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+  },
+  "routing": {
+    "country_source": "sim",
+    "default_server": "server_main",
+    "no_sim_server": "server_main",
+    "server_order": [
+      "server_2"
+    ]
+  },
+  "servers": {
+    "server_main": {
+      "enabled": true,
+      "api_base_url": "https://marouaneai.com/apkpurebackend/"
+    },
+    "server_2": {
+      "enabled": true,
+      "api_base_url": "https://marouaneai.com/apkpurebackend/",
+      "countries": [
+        "ES"
+      ],
+      "fallback_server": "server_main"
+    }
+  },
+  "ads": {
+    "readMe": "ad_status: on/off | ad_type: admob - applovin_max -  | backup_ads: same values or none | test_mode: 1=test, 0=production",
+    "id": 1,
+    "ad_status": "off",
+    "ad_type": "applovin_max",
+    "backup_ads": "admob",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 12,
+    "native_ad_index": 12,
+    
+    "applovin_banner_ad_unit_id": "66efd00c856ba23f",
+    "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
+    "applovin_native_ad_manual_unit_id": "be48e046fb9a768a",
+    "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
+    
+    "admob_publisher_id": "pub-7700910344505451",
+    "admob_banner_unit_id": "ca-app-pub-7700910344505451/3981380056",
+    "admob_interstitial_unit_id": "ca-app-pub-7700910344505451/4010309377",
+    "admob_native_unit_id": "ca-app-pub-7700910344505451/3518345626",
+    "admob_app_open_ad_unit_id": "ca-app-pub-7700910344505451/3191042568",
+
+    "test_mode": 0,
+    "house": {
+      "enabled": false,
+      "banner_rotation_seconds": 60,
+      "native_rotation_seconds": 0,
+      
+      "banner": [
+        {
+          "id": "house-banner-01",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        },
+        {
+          "id": "house-banner-02",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        },
+        {
+          "id": "house-banner-03",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
+        }
+      ],
+      "native": [
+        {
+          "id": "house-native-01",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        },
+        {
+          "id": "house-native-02",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        },
+        {
+          "id": "house-native-03",
+          "enabled": true,
+          "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
+          "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
+          "title": "APKPure",
+          "body": "Discover apps and games",
+          "cta": "View on Google Play",
+          "advertiser": "APKPure"
+        }
+      ]
+    }
+  },
+  "push": {
+    "enabled": false,
+    "provider": "onesignal",
+    "onesignal_app_id": ""
+  },
+  "settings": {
+    "privacy_policy_url": "https://sites.google.com/view/privacy-apkpure",
+    "terms_url": "https://sites.google.com/view/privacy-apkpure",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=Apkpure"
+  }
+}
