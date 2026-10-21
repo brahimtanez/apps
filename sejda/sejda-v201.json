@@ -1,0 +1,87 @@
+{
+  "config_version": 1,
+  "app": {
+    "min_version_code": 200,
+    "latest_version_code": 200,
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.sejda.pdf.tools.editorpdf",
+    "update_message": {
+      "en": "A new version is available.",
+      "fr": "Une nouvelle version est disponible.",
+      "ar": "يتوفر إصدار جديد من التطبيق."
+    },
+    "force_update_message": {
+      "en": "Please update the app to keep using it.",
+      "fr": "Veuillez mettre à jour l'application pour continuer.",
+      "ar": "يرجى تحديث التطبيق لمواصلة استخدامه."
+    },
+    "kill_switch": false,
+    "kill_message": {
+      "en": "The app is under maintenance. Please try again later.",
+      "fr": "L'application est en maintenance. Réessayez plus tard.",
+      "ar": "التطبيق قيد الصيانة. يرجى المحاولة لاحقاً."
+    }
+  },
+  "ads": {
+    "enabled": true,
+    "formats": {
+      "banner": {
+        "enabled": true,
+        "order": ["max", "admob", "own"],
+        "timeout_ms": 6000,
+        "refresh_s": 60
+      },
+      "native": {
+        "enabled": true,
+        "order": ["max", "admob", "own"],
+        "timeout_ms": 6000,
+        "native_ad_index": 3,
+        "native_ad_interval": 8
+      },
+      "interstitial": {
+        "enabled": true,
+        "order": ["max", "admob"],
+        "timeout_ms": 5000,
+        "min_interval_s": 90
+      },
+      "app_open": {
+        "enabled": true,
+        "order": ["admob", "max"],
+        "timeout_ms": 4000,
+        "min_interval_s": 300
+      },
+      "rewarded": {
+        "enabled": true,
+        "order": ["max", "admob"],
+        "timeout_ms": 8000
+      }
+    },
+    "max_units": {
+      "banner": "",
+      "native": "",
+      "interstitial": "",
+      "app_open": "",
+      "rewarded": ""
+    },
+    "admob_units": {
+      "banner": "",
+      "native": "",
+      "interstitial": "",
+      "app_open": "",
+      "rewarded": ""
+    },
+    "own_ads": [
+      {
+        "id": "house-1",
+        "type": "banner",
+        "image": "https://example.com/house-1-960x150.png",
+        "url": "https://play.google.com/store/apps/details?id=com.example.app"
+      },
+      {
+        "id": "house-2",
+        "type": "native",
+        "image": "https://example.com/house-2-1200x628.png",
+        "url": "https://play.google.com/store/apps/details?id=com.example.app"
+      }
+    ]
+  }
+}
