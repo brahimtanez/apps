@@ -34,7 +34,7 @@
   "ads": {
     "readMe": "ad_status: on/off | ad_type: admob - applovin_max -  | backup_ads: same values or none | test_mode: 1=test, 0=production",
     "id": 1,
-    "ad_status": "off",
+    "ad_status": "on",
     "ad_type": "applovin_max",
     "backup_ads": "admob",
     "interstitial_ad_interval": 3,
@@ -61,19 +61,19 @@
       "banner": [
         {
           "id": "house-banner-01",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         },
         {
           "id": "house-banner-02",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         },
         {
           "id": "house-banner-03",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/banner-320x50.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp"
         }
@@ -81,7 +81,7 @@
       "native": [
         {
           "id": "house-native-01",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
@@ -91,7 +91,7 @@
         },
         {
           "id": "house-native-02",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
@@ -101,7 +101,7 @@
         },
         {
           "id": "house-native-03",
-          "enabled": true,
+          "enabled": false,
           "image_url": "https://raw.githubusercontent.com/brahimtanez/apps/refs/heads/main/erupkpa/native-media.png",
           "destination_url": "https://play.google.com/store/apps/details?id=com.apkpure.appp",
           "title": "APKPure",
