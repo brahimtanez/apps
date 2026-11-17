@@ -35,11 +35,11 @@
     "readMe": "ad_status: on/off | ad_type: admob - applovin_max -  | backup_ads: same values or none | test_mode: 1=test, 0=production",
     "id": 1,
     "ad_status": "on",
-    "ad_type": "applovin_max",
-    "backup_ads": "admob",
-    "interstitial_ad_interval": 3,
-    "native_ad_interval": 12,
-    "native_ad_index": 12,
+    "ad_type": "admob",
+    "backup_ads": "applovin_max",
+    "interstitial_ad_interval": 2,
+    "native_ad_interval": 9,
+    "native_ad_index": 9,
     
     "applovin_banner_ad_unit_id": "66efd00c856ba23f",
     "applovin_interstitial_ad_unit_id": "f8e3b39a5bd8cccc",
@@ -47,10 +47,10 @@
     "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
     
     "admob_publisher_id": "pub-7700910344505451",
-    "admob_banner_unit_id": "ca-app-pub-7700910344505451/3981380056",
-    "admob_interstitial_unit_id": "ca-app-pub-7700910344505451/4010309377",
-    "admob_native_unit_id": "ca-app-pub-7700910344505451/3518345626",
-    "admob_app_open_ad_unit_id": "ca-app-pub-7700910344505451/3191042568",
+    "admob_banner_unit_id": "ca-app-pub-1610621033415452/9341844916",
+    "admob_interstitial_unit_id": "ca-app-pub-1610621033415452/2716726819",
+    "admob_native_unit_id": "ca-app-pub-1610621033415452/4448785895",
+    "admob_app_open_ad_unit_id": "ca-app-pub-1610621033415452/5772019589",
 
     "test_mode": 0,
     "house": {
