@@ -35,8 +35,8 @@
     "readMe": "ad_status: on/off | ad_type: admob - applovin_max -  | backup_ads: same values or none | test_mode: 1=test, 0=production",
     "id": 1,
     "ad_status": "on",
-    "ad_type": "admob",
-    "backup_ads": "applovin_max",
+    "ad_type": "applovin_max",
+    "backup_ads": "admob",
     "interstitial_ad_interval": 2,
     "native_ad_interval": 9,
     "native_ad_index": 9,
@@ -47,10 +47,10 @@
     "applovin_app_open_ad_unit_id": "e5cee12a3d0833a7",
     
     "admob_publisher_id": "pub-1610621033415452",
-    "admob_banner_unit_id": "ca-app-pub-1610621033415452/9341844916",
-    "admob_interstitial_unit_id": "ca-app-pub-1610621033415452/2716726819",
-    "admob_native_unit_id": "ca-app-pub-1610621033415452/4448785895",
-    "admob_app_open_ad_unit_id": "ca-app-pub-1610621033415452/5772019589",
+    "admob_banner_unit_id": "ca-app-pub-1610621033415452xx/9341844916",
+    "admob_interstitial_unit_id": "ca-app-pub-1610621033415452xx/2716726819",
+    "admob_native_unit_id": "ca-app-pub-1610621033415452xx/4448785895",
+    "admob_app_open_ad_unit_id": "ca-app-pub-1610621033415452xx/5772019589",
 
     "test_mode": 0,
     "house": {
